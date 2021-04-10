@@ -21,10 +21,12 @@ Menu principal da aplicação:
 
 
 ![image](https://user-images.githubusercontent.com/49655819/114282880-82521780-9a3e-11eb-95cc-3cc408cece18.png)
+
 1 - Serviços prestados na clínica
 
 
 ![image](https://user-images.githubusercontent.com/49655819/114282939-f2f93400-9a3e-11eb-8617-86e52e559e7b.png)
+
 2 - Processo de registo de cliente onde é pedido o nome,morada e número de telemovel
 
 
