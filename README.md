@@ -49,7 +49,8 @@ Menu principal da aplicação:
 Como funciona o processo de Consulta??
 
 Basicamente o utilizador diz qual o animal que pretende ter consulta e de seguida indica qual o serviço que pretende.
-Após isso se não houver médicos disponíveis especializados em tal serviço o sistema não deixa prosseguir com a consulta.
+Após isso se não houver médicos disponíveis(ou seja com turnos marcados) especializados em tal serviço o sistema não deixa prosseguir com a consulta.
+Caso exista é apresentado uma lista dos médicos disponíveis para a realizaçao de tal consulta. O cliente escolhe o médico e se o turno dele coincidir com a hora atual é possível realizar a consulta. Caso a hora atual não esteja dentro do intervalo de tempo do turno do médico , o cliente tem de indicar uma hora para a nova consulta ( dentro do intervalo de tempo estipulado pelo médico ) e assim a consulta fica agendada. Após a realização da consulta o médico preescreve a receita médica para o tal animal que fica disponível para impressão no dashboard do cliente.
 
 
 
