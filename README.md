@@ -2,7 +2,7 @@
 
 TIVE DE FAZER UPLOAD EM .RAR VISTO QUE O GITHUB NÃO ME DEIXAVA FAZER UPLOAD DA PASTA DO PROJETO
 
-Basicamente o projeto tem 5 classes ( 6 contando com o main ):
+Basicamente o projeto tem 5 classes ( 6 contando com o main ): 
 AnimaisdeEstimação
 Cliente
 Médico
@@ -29,7 +29,11 @@ Menu principal da aplicação:
 
 2 - Processo de registo de cliente onde é pedido o nome,morada e número de telemovel
 
+![image](https://user-images.githubusercontent.com/49655819/114283053-ab26dc80-9a3f-11eb-82aa-b8e53350d6e0.png)
 
-3-
+3 - Dashboard do cliente onde é possível registar animais de estimação, editar dados do cliente, marcar consultas (indicando o id do animal que pretende ter consulta), imprimir receitas médicas e recarregar saldo.
+
+4 - 
+
 
 
