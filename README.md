@@ -54,3 +54,14 @@ Caso exista é apresentado uma lista dos médicos disponíveis para a realizaça
 
 
 
+
+
+Para efeitos de teste já foi adicionado um cliente e um médico
+
+É possível verificar os dados dos mesmos no dashboard admin
+
+
+P.S - o médico criado tem um turno que corresponde ao dia em que estiver a correr o programa( desde a 00h:00 até às 23h:59)
+
+
+
