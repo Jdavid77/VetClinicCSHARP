@@ -46,4 +46,10 @@ Menu principal da aplicação:
 
 
 
+Como funciona o processo de Consulta??
+
+Basicamente o utilizador diz qual o animal que pretende ter consulta e de seguida indica qual o serviço que pretende.
+Após isso se não houver médicos disponíveis especializados em tal serviço o sistema não deixa prosseguir com a consulta.
+
+
 
