@@ -31,9 +31,19 @@ Menu principal da aplicação:
 
 ![image](https://user-images.githubusercontent.com/49655819/114283053-ab26dc80-9a3f-11eb-82aa-b8e53350d6e0.png)
 
-3 - Dashboard do cliente onde é possível registar animais de estimação, editar dados do cliente, marcar consultas (indicando o id do animal que pretende ter consulta), imprimir receitas médicas e recarregar saldo.
+3 - Dashboard do cliente, onde é possível registar animais de estimação, editar dados do cliente, marcar consultas (indicando o id do animal que pretende ter consulta), imprimir receitas médicas e recarregar saldo.
 
-4 - 
+
+![image](https://user-images.githubusercontent.com/49655819/114283156-37d19a80-9a40-11eb-84ac-9416a1715815.png)
+
+4 - Dashboard do médico, onde é possível marcar turno (basicamente como é 24/7 o médico escolhe o inicio do turno e o fim), iniciar turno de emergencia de duas horas(caso não esteja em serviço) e editar dados pessoais.
+
+![image](https://user-images.githubusercontent.com/49655819/114283197-6ea7b080-9a40-11eb-896b-fb26e3c2d860.png)
+
+5 - Dashboard Admin, onde é possível registar um médico, mostrar todos os clientes registados na clínica, todos os médicos registados na clínica e imprimir um relatório individual de um cliente
+
+
+
 
 
 
